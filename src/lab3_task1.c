@@ -88,5 +88,5 @@ int array_sum(int arr[], int size) {
 float array_avg(int arr[], int size) {
   int sum = array_sum(arr, size);
   // TODO: return average as float (avoid integer division)
-  return (float)sum / size;  // placeholder
+  return (float)sum / size;  //placeholder
 }

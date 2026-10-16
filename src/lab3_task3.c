@@ -1,7 +1,7 @@
 /*
  * Lab 3, Task 3
- * Name: <your name>
- * Student ID: <your student ID>
+ * Name: Arjun
+ * Student ID: 251ADB007
  *
  * Implement basic string handling functions.
  * Write your own versions of:

@@ -43,7 +43,7 @@ int main(void) {
   return 0;
 }
 
-// Implement functions belows
+//Implement functions belows
 void swap(int* x, int* y) {
   int temp = *x;  // TODO: swap values using a temporary variable
   *x = *y;
